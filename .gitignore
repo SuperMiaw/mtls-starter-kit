@@ -1,0 +1,6 @@
+/ca/
+/clients/
+*.key
+*.pfx
+*.p12
+*.srl
